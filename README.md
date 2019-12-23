@@ -10,12 +10,6 @@
 <script src="https://7pub.github.io/Projecthead/js/icontrack/forwardpush.js"></script>
 <link rel="stylesheet" href="https://7pub.github.io/Projecthead/css/icontrack/style.css" />
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<span id="6YatbOI5Rh"></span>
-
 ---
 ``"Redet jeder von denen als ob sie vom Olymp wären oder wie? Ich mein Ständig halt? Du hast auch immer deine Pappm offen, genau wie diese scheiss Icons! 
 ``
@@ -49,15 +43,11 @@
         </p>
     </span>
 </section>
-
-
 <script>
   $("#6YatbOI5Rh").load("https://tricon.cali.run/");
 </script>
-<script name="gtag" type="text/javascript">
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'UA-XXXXXXXXX-X');
-</script>
-<script name="googletagmanager" async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<span id="6YatbOI5Rh"></span>
