@@ -1,2 +1,2 @@
 # tricon-master
-"Redet jeder vom Olymp so? Ständig? So wie diese scheiss Icons! Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt!"
+"Redet jeder von denen als ob sie vom Olymp wären oder so? Ständig halt? So wie diese scheiss Icons! Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt!"
