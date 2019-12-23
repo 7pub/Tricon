@@ -1,6 +1,9 @@
+``"Redet jeder von denen als ob sie vom Olymp wären oder wie? Ich mein Ständig halt? Du hast auch immer deine Pappm offen, genau wie diese scheiss Icons! 
+``
+
+# _Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt_
+
 # Tricon Master Kekse
- 
-"Redet jeder von denen als ob sie vom Olymp wären oder so? Ständig halt? So wie diese scheiss Icons! Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt!"
 
 <section class="demo">
     <span><!--Placholder--></span>
