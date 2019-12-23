@@ -1,15 +1,4 @@
-# tricon-master
-"Redet jeder von denen als ob sie vom Olymp wären oder so? Ständig halt? So wie diese scheiss Icons! Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt!"
 
-
-<head>
-    <!--Site Meta-->
-    <meta charset="utf-8">
-    <meta name="description" content="-">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Icontrick is really Bull | Represented by Cali.Run</title>
-</head>
 <script src="https://7pub.github.io/Projecthead/js/icontrack/reversping.js"></script>
 <script src="https://7pub.github.io/Projecthead/js/icontrack/forwardpush.js"></script>
 <link rel="stylesheet" href="https://7pub.github.io/Projecthead/css/icontrack/style.css" />
@@ -38,13 +27,3 @@
         </p>
     </span>
 </section>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script name="gtag" type="text/javascript">
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'UA-XXXXXXXXX-X');
-</script>
-<script name="googletagmanager" async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
