@@ -3,7 +3,7 @@
 * Das kann dann ja nur ein Fehler sein. Ich meine was soll das?
 * Das hoffe ich für alle Europameister der Zoo-OLgik.
 
-    ## ~~Zeitgleich und Resistent schwingen Argumente~~
+## ~~Zeitgleich und Resistent schwingen Argumente~~
 
 Nicht-lokal beschriebe, in der Nähe von aktuell bekannten und akzeptierten Gehirnbereichen der am Ende des 20 Jahrhundert in Europa lebenden und bis zur Selbstreflektion entwickelten Homo Sapiens. Scheinen dennoch diese nicht-bewussten Benutzerkonto auszumachen. Zu fixieren. Begriffe zu formulieren welche diese ungewöhnlcihe Gleichgültigkeit beschreibt. Manchmal sogar... Naja aber angemeldet und aktiv...  Eigestuft als ungewöhnlich doch was willst du von mir. Das war ich nicht.
 
