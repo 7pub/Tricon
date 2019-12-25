@@ -1,41 +1,26 @@
-HEAD
-``"Redet jeder von denen als ob sie vom Olymp wären oder wie? Ich mein Ständig halt? Du hast auch immer deine Pappm offen, genau wie diese scheiss Icons! 
-``
+# Tricon Master Kekse
 
-# _Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt_
+* Das kann dann ja nur ein Fehler sein. Ich meine was soll das?
+* Das hoffe ich für alle Europameister der Zoo-OLgik.
 
-### Redet jeder von denen als ob sie vom Olymp wären oder wie? Ich mein Ständig halt? Du hast auch immer deine Pappm offen, genau wie diese scheiss Icons! 
+    ## ~~Zeitgleich und Resistent schwingen Argumente~~
+
+Nicht-lokal beschriebe, in der Nähe von aktuell bekannten und akzeptierten Gehirnbereichen der am Ende des 20 Jahrhundert in Europa lebenden und bis zur Selbstreflektion entwickelten Homo Sapiens. Scheinen dennoch diese nicht-bewussten Benutzerkonto auszumachen. Zu fixieren. Begriffe zu formulieren welche diese ungewöhnlcihe Gleichgültigkeit beschreibt. Manchmal sogar... Naja aber angemeldet und aktiv...  Eigestuft als ungewöhnlich doch was willst du von mir. Das war ich nicht.
 
 ## Ich fühle mich, als hätte Shakespear in mein Gehirn gekotzt
 
-# Tricon Master Kekse
-
-<section class="demo">
-    <span><!--Placholder--></span>
+<section class="tricon">
     <span>
-        <p>Du hinterlässt auch in der virtuellen Welt Fingerabrücke und Fußspuren.
-          Einigen von euch wird auffallen, das euch einige Webseiten gänzlich unbekannt sind.<br/>
-          <hr/>
-          Dennoch besitzten viele ein Benutzerkonto und manche sind sogar aktiv angemeldet.
-        </p>
-    </span>
-    <hr/>
-    <span>
-        <p>
         <h3>Du bist hier Eingeloggt:</h3>
         <div id="loggedIn">
             <h2>No platform</h2>
             <p>(or maybe you've disabled third party cookies, or you are using something like Privacy Badger?)</p>
             <br><br><br>
         </div>
-        </p>
-        <p>
-    <h3>Hier bist du nicht Eingeloggt:</h3>
-            <div id="notLoggedIn"></div>
-        </p>
+        <h4>Redet jeder von denen als ob sie vom Olymp wären oder wie? Ich mein Ständig halt? Du hast auch immer deine Pappm offen, genau wie diese scheiss Icons! </h4>
+        <div id="notLoggedIn"></div>
     </span>
+    <link rel="stylesheet" href="https://ccdn.cali.run/style/caliweb/tricon/style.css" />
+    <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/reversping.js"></script>
+    <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/forwardpush.js"></script>
 </section>
-=======
-<script src="https://7pub.github.io/Projecthead/js/icontrack/reversping.js"></script>
-<script src="https://7pub.github.io/Projecthead/js/icontrack/forwardpush.js"></script>
-<link rel="stylesheet" href="https://7pub.github.io/Projecthead/css/icontrack/style.css" />
