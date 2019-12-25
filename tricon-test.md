@@ -1,20 +1,20 @@
 <head>
 <!--Site Meta-->
-<meta charset="utf-8">
-<meta name="description" content="-">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Icontrick is really Bull | Represented by Cali.Run</title>
-<link rel="apple-touch-icon" sizes="120x120" href="https://7pub.github.io/favicon/vendor/Microsoft/Store-Logo/windows-10-beta-store_logo.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://7pub.github.io/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://7pub.github.io/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://7pub.github.io/favicon/favicon-16x16.png">
-<link rel="manifest" href="https://7pub.github.io/favicon/site.webmanifest">
-<link rel="mask-icon" href="https://7pub.github.io/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="shortcut icon" href="https://7pub.github.io/favicon/favicon.ico">
-<meta name="msapplication-TileColor" content="#48451d">
-<meta name="msapplication-config" content="https://7pub.github.io/favicon/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="description" content="-">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tricon - The Icons with Bull | Represented by Cali.Run</title>
+    <link rel="apple-touch-icon" sizes="120x120" href="https://7pub.github.io/favicon/vendor/Microsoft/Store-Logo/windows-10-beta-store_logo.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://7pub.github.io/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://7pub.github.io/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://7pub.github.io/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://7pub.github.io/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://7pub.github.io/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="https://7pub.github.io/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#48451d">
+    <meta name="msapplication-config" content="https://7pub.github.io/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
 </head>
 <body>
 
@@ -45,12 +45,12 @@
 <h4>Redet jeder von denen als ob sie vom Olymp wären oder wie? Ich mein Ständig halt? Du hast auch immer deine Pappm offen, genau wie diese scheiss Icons! </h4>            <div id="notLoggedIn"></div>
         </p>
     </span>
-<script src="https://7pub.github.io/Projecthead/js/icontrack/reversping.js"></script>
-<script src="https://7pub.github.io/Projecthead/js/icontrack/forwardpush.js"></script>
-<link rel="stylesheet" href="https://7pub.github.io/Projecthead/css/icontrack/style.css" />
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="https://ccdn.cali.run/scripts/vendor/ajax/popper/1.12.9/popper.min.js"></script>
+    <script type="text/javascript" src="https://ccdn.cali.run/scripts/vendor/bootstrap/4.0.0/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/reversping.js"></script>
+    <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/forwardpush.js"></script>
+    <link rel="stylesheet" href="https://ccdn.cali.run/css/icontrack/style.css" />
 </section>
-</ body>
+</body>
 </html>
