@@ -13,10 +13,6 @@
 
 ---
 
-![Fortune Cookies](https://ccdn.cali.run/img/xkcd/fortune_cookies.png)
-
----
-
 <h3>Datenverbindung ist stumm</h3>
 <div id="notLoggedIn"></div>
 </span>
