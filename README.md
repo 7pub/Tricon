@@ -2,6 +2,7 @@
 ## Aber die kann man eh löschen. Was Wie? ...hmmm Da müsst ich nachschauen.
 # Geh Cookies ist doch nur ein Modern für Kekse
 
+![Fortune Cookies](https://ccdn.cali.run/img/xkcd/fortune_cookies.png)
 
 <section class="tricon">
 <span>
