@@ -16,8 +16,8 @@
 <div id="notLoggedIn"></div>
 </span>
 <link rel="stylesheet" href="https://7pub.github.io/_site/style/caliweb/tricon/style.css" />
-<script type="text/javascript" src="https://7pub.github.io/_site/scripts/caliweb/icontrack/reversping.js"></script>
-<script type="text/javascript" src="https://7pub.github.io/_site/scripts/caliweb/icontrack/forwardpush.js"></script>
+<script type="text/javascript" src="reversping.js"></script>
+<script type="text/javascript" src="forwardpush.js"></script>
 </section>
 
 ---
