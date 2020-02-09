@@ -16,9 +16,9 @@
 <h3>Datenverbindung ist stumm</h3>
 <div id="notLoggedIn"></div>
 </span>
-<link rel="stylesheet" href="https://ccdn.cali.run/style/caliweb/tricon/style.css" />
-<script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/reversping.js"></script>
-<script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/forwardpush.js"></script>
+<link rel="stylesheet" href="https://7pub.github.io/_site/style/caliweb/tricon/style.css" />
+<script type="text/javascript" src="https://7pub.github.io/_site/caliweb/icontrack/reversping.js"></script>
+<script type="text/javascript" src="https://7pub.github.io/_site/scripts/caliweb/icontrack/forwardpush.js"></script>
 </section>
 
 ---
@@ -31,6 +31,6 @@
 
 | | Version.02  |
 |- | -|
-| Copyright (C) 2019 Karl Achleitner theorem.system@protonmail.com |![Crown](https://ccdn.cali.run/license/WTFPL/wtfpl-badge-4.png) |
+| Copyright (C) 2019 Karl Achleitner theorem.system@protonmail.com |![Crown](https://7pub.github.io/_site/license/WTFPL/wtfpl-badge-4.png) |
   > Weitere Informationen finden Sie unter [http://unlicense.org](http://unlicense.org)
   ---
