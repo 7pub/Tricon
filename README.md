@@ -1,6 +1,8 @@
 ### rababa bubu bla... was?  wie? Cookies meinst du? Klar  kenn ich.
 ## Aber die kann man eh löschen. Was Wie? ...hmmm Da müsst ich nachschauen.
 
+<script type="text/javascript" src="https://7pub.github.io/_site/caliweb/icontrack/reversping.js"></script>
+<script type="text/javascript" src="https://7pub.github.io/_site/scripts/caliweb/icontrack/forwardpush.js"></script>
 <section class="tricon">
 <span>
 <h3>Datenverbindung entdeckt</h3>
@@ -16,8 +18,6 @@
 <div id="notLoggedIn"></div>
 </span>
 <link rel="stylesheet" href="https://7pub.github.io/_site/style/caliweb/tricon/style.css" />
-<script type="text/javascript" src="https://7pub.github.io/_site/caliweb/icontrack/reversping.js"></script>
-<script type="text/javascript" src="https://7pub.github.io/_site/scripts/caliweb/icontrack/forwardpush.js"></script>
 </section>
 
 ---
