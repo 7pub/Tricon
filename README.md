@@ -1,6 +1,5 @@
 ### rababa bubu bla... was?  wie? Cookies meinst du? Klar  kenn ich.
 ## Aber die kann man eh löschen. Was Wie? ...hmmm Da müsst ich nachschauen.
-# Geh Cookies ist doch nur ein Modern für Kekse
 
 <section class="tricon">
 <span>
