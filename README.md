@@ -3,6 +3,10 @@
 
 ---
 
+![Kali Logo](/repository-open-graph-template.png)
+
+---
+
 ## 📄 License
 
 | DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE |
